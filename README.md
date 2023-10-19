@@ -12,4 +12,5 @@ Created a dynamic Tableau dashboard that provides a comprehensive view of the re
 - **Geographical Analysis**: Shows return distribution by region, helping us focus on areas with higher return rates.
 
 Tableau dashboard: https://public.tableau.com/shared/T75HS7P75?:display_count=n&:origin=viz_share_link
+
 **Data Sources:** Kaggle
