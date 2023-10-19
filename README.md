@@ -10,6 +10,7 @@ Created a dynamic Tableau dashboard that provides a comprehensive view of the re
 - **Product Insights**: Examines return rates for different products, helping us identify problematic items.
 - **Reasons for Returns**: Breaks down return reasons, highlighting areas for improvement in our processes.
 - **Geographical Analysis**: Shows return distribution by region, helping us focus on areas with higher return rates.
-**Access the Dashboards**: You can access the Tableau dashboards 
+
+### Access the Dashboards: You can access the Tableau dashboards here https://public.tableau.com/shared/T75HS7P75?:display_count=n&:origin=viz_share_link
 ## Data Sources
 The analysis is based on data from our sales and returns database, which contains information about products, customers, orders, and return records. It's crucial to note that the data has been anonymized and sanitized for privacy and security.
